@@ -56,19 +56,19 @@ those ".bat" files are tutorial. try your own settings! check out "option.py"
 
 #### 5X5 Maze, # of Wall = 20, Episode: 20
 
-![Figure1](./assets/5520.jpg)
+![Figure1](./assets/5520.JPG)
 
 
 
 #### 5X5 Maze, # of Wall = 45, Episode: 100
 
-![Figure2](./assets/55100.jpg)
+![Figure2](./assets/55100.JPG)
 
 
 
 #### 10X10 Maze, # of Wall = 45, Episode: 100
 
-![Figure3](./assets/1010100.jpg)
+![Figure3](./assets/1010100.JPG)
 
 
 
