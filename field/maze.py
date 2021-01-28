@@ -155,7 +155,7 @@ class Maze(MetaField):
     def draw_maze(self, episode, step, total_step):
         self.cell()
         self.wall(self.wall_src, self.wall_dst)
-        self.right_info(self.colorbook['white'], episode, 'episode', 50)
+        self.right_info(self.colorbook['white'], episode+1, 'episode', 50)
         self.right_info(self.colorbook['white'], step, 'episode step', 100)
         self.right_info(self.colorbook['white'], total_step, 'total step', 150)
 

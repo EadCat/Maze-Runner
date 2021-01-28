@@ -81,7 +81,7 @@ those ".bat" files are tutorial. try your own settings! check out "option.py"
 
 
 
-Personally, The difficulty of learning : Q >= Sarsa >>> Policy Gradient
+Personally, the difficulty of learning : Policy Gradient >> Sarsa Learning >= Q-Learning
 
 
 
