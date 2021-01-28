@@ -50,7 +50,7 @@ argparse
 
 
 
-those ".bat" files are tutorial. try your own settings! check out "option.py"
+those ".bat" files are tutorials. try your own settings! check out "option.py"
 
 
 
