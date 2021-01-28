@@ -1,0 +1,1 @@
+python train.py --name Q_1010 --agent q -T 2000 --cells 10 10 --wall 45 --animation False --episode 100

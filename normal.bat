@@ -1,0 +1,1 @@
+python train.py --name normal_1010 --agent random -T 2000 --cells 10 10 --wall 45 --animation False --episode 100

@@ -1,0 +1,1 @@
+python train.py --name Grad_1010 --agent grad -T 2000 --cells 10 10 --wall 45 --animation False --episode 100
