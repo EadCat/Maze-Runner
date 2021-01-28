@@ -52,7 +52,16 @@ argparse
 
 those ".bat" files are tutorial. try your own settings! check out "option.py"
 
-## 3. Ablation
+
+
+## 3. Bugs
+
+- All-NaN bug occurs when there is no state for the agent to move after random wall creation, so just try again. The more walls you build, the greater your chances of getting this bug.
+- Sometimes, the route to the destination could be completely blocked, so just try again.
+
+
+
+## 4. Ablation
 
 #### 5X5 Maze, # of Wall = 20, Episode: 20
 
@@ -76,19 +85,19 @@ Personally, The difficulty of learning : Q >= Sarsa >>> Policy Gradient
 
 
 
-## 4. Update
+## 5. Update
 
 Coming Soon.
 
 
 
-## 5. References
+## 6. References
 
 1. [つくりながら學ぶ!深層强化學習 PYTORCHによる實踐プログラミング / 小川雄太郞] (book)
 
 
 
-## 6. Author
+## 7. Author
 
 Dae-Young Song
 
