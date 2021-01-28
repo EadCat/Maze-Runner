@@ -60,7 +60,7 @@ those ".bat" files are tutorial. try your own settings! check out "option.py"
 
 
 
-#### 5X5 Maze, # of Wall = 45, Episode: 100
+#### 5X5 Maze, # of Wall = 20, Episode: 100
 
 ![Figure2](./assets/55100.JPG)
 
