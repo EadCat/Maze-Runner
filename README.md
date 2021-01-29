@@ -63,6 +63,8 @@ those ".bat" files are tutorials. try your own settings! check out "option.py"
 
 ## 4. Ablation
 
+X axis: episodes / Y axis: # of steps
+
 #### 5X5 Maze, # of Wall = 20, Episode: 20
 
 ![Figure1](./assets/5520.JPG)
