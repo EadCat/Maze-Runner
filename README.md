@@ -56,7 +56,7 @@ those ".bat" files are tutorials. try your own settings! check out "option.py"
 
 ## 3. Bugs
 
-- All-NaN bug occurs when there is no state for the agent to move after random wall creation, so just try again. The more walls you build, the greater your chances of getting this bug.
+- NaN bug occurs when there is no state for the agent to move after random wall creation, so just try again. The more walls you build, the greater your chances of getting this bug.
 - Sometimes, the route to the destination could be completely blocked, so just try again.
 
 
