@@ -61,7 +61,7 @@ those ".bat" files are tutorial. try your own settings! check out "option.py"
 
 
 
-## 4. Ablation
+## 4. Experiments
 
 #### 5X5 Maze, # of Wall = 20, Episode: 20
 
